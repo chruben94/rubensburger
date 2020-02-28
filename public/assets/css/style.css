@@ -1,0 +1,65 @@
+body{
+    background-color: #433c5c;
+    color: #d1d7e0;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+
+}
+
+img{
+    background-color: #2d283e;
+  
+}
+
+button{
+    border-radius: 10px;
+    border: black solid 2px;
+    background-color: #fce181;
+    color:#2d283e;
+    padding: 10px;
+    margin:10px;
+}
+
+h1{
+    color: #fce181;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+ul{
+    font-size: 35px;
+    list-style-type:none;
+    display: inline;
+    padding: 10px 10px;
+   
+}
+
+li{
+    font-size: 20px;
+    padding: 10px 10px;
+}
+
+#addBurger{
+    clear: both;
+    font-size: 30px;
+    width: 400px;
+    overflow: hidden;
+    border: black solid 10px;
+    border-radius: 10px;
+    padding: 15px 20px;
+    align-items: center;
+    margin: 15px auto;
+
+}
+
+.save{
+    float: left;
+    margin: auto;
+}
+
+.devour{
+    float: right;
+    /* margin-right: 80px; */
+    margin: auto;
+}

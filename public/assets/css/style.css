@@ -1,6 +1,6 @@
 body{
-    background-color: #433c5c;
-    color: #d1d7e0;
+    background-color: greenyellow;
+    color: red;
     text-align: center;
     font-family: 'Righteous', cursive;
 
@@ -12,18 +12,22 @@ img{
 }
 
 button{
-    border-radius: 10px;
-    border: black solid 2px;
-    background-color: #fce181;
-    color:#2d283e;
+    border-radius: 20px;
+    border: red 4px;
+    background-color: yellow;
+    color:red;
     padding: 10px;
     margin:10px;
 }
 
 h1{
-    color: #fce181;
+    color: red;
     font-size: 60px;
     font-weight: bold;
+    border: solid;
+    border-width: 5px;
+    border-color: red;
+    background-color: yellow;
 
 }
 
@@ -45,8 +49,6 @@ li{
     font-size: 30px;
     width: 400px;
     overflow: hidden;
-    border: black solid 10px;
-    border-radius: 10px;
     padding: 15px 20px;
     align-items: center;
     margin: 15px auto;
